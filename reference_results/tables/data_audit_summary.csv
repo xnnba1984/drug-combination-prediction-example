@@ -1,0 +1,15 @@
+item,value
+DeepSynergy label rows,23052
+Unique drug-pair-cell-line triplets,22737
+Triplets with two source measurements,315
+Unique drug pairs,583
+Unique drugs,38
+Unique cell lines,39
+Pairs assigned to more than one outer fold,0
+DrugComb v1.5 O'Neil block rows,92208
+DrugComb triplets matched to DeepSynergy,22737
+Triplets with missing CSS,0
+Pearson correlation: published and DrugComb Loewe,0.41521919885775
+Spearman correlation: published and DrugComb Loewe,0.533000111269825
+Median range between repeated published Loewe scores,13.2359585749
+Maximum range between repeated published Loewe scores,130.6901432996

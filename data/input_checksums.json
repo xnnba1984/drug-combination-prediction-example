@@ -1,0 +1,12 @@
+{
+  "algorithm": "sha256",
+  "files": {
+    "data/raw/deepsynergy_labels.csv": "4ef40678fff51faa84fa4de63344c5b51e2e4abe7c28a417af24ec2b50fa135a",
+    "data/raw/deepsynergy_X.p.gz": "e399f6cdb40184048ac34b370f89cc6e4582bec72893cc2c98d90c1634517899",
+    "data/raw/drugcomb_v15_oneil.csv": "6bf6e7e434e4866d48c4e455f5a1039ed4bc4cf355c1f8022bcef71c9ea96349",
+    "data/raw/DrugComb_drug_identifiers_v1.4.xlsx": "02b1655ad15a81e0bef06909e147ff4c688938aa7f75eb04603f440e8b18438c",
+    "data/interim/drug_features.csv": "d3fc1df03048941061ddcb7b81e0767132da486816e28164ac1863701f32f229",
+    "data/interim/cell_features.csv": "268751524825cb978fbd663b4174e6993f1e07fc180f34d213509162eb1ece77",
+    "data/interim/drugcomb_oneil_identifiers.csv": "9bc2f656d7421e33d3cb7dcc621c00c070c6991a7ad8cee9593ddfb4e4126009"
+  }
+}

@@ -1,0 +1,14 @@
+.Rlib/
+.venv/
+.Rhistory
+.RData
+.DS_Store
+__pycache__/
+*.pyc
+data/raw/
+data/interim/
+data/processed/
+outputs/
+logs/
+*.download
+*.metadata-clean.tmp.pdf

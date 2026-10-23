@@ -1,0 +1,8 @@
+if (!file.exists("renv.lock")) stop("Run this script from the repository root.", call. = FALSE)
+source("R/environment.R")
+source("R/python.R")
+check_environment()
+options(section3.figure_tables = "reference_results/tables", section3.figure_only = TRUE)
+source("R/06_make_figures.R", local = new.env(parent = globalenv()))
+run_python("scripts/clean_pdf_metadata.py", "outputs/figures")
+message("Figure redrawn from the released summary tables. No models were refitted.")

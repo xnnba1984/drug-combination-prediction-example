@@ -1,0 +1,17 @@
+check,observed,expected,status
+Unique analysis triplets,22737,22737,PASS
+Unique drug pairs,583,583,PASS
+Cell lines,39,39,PASS
+Outer folds,"0,1,2,3,4","0,1,2,3,4",PASS
+One fold per pair,1,1,PASS
+Complete 39-cell-line pair profiles,39,39,PASS
+Feature rows match outcomes,22737,22737,PASS
+Prediction rows match outcomes,22737,22737,PASS
+Unique out-of-fold predictions,22737,22737,PASS
+Complete predictions for all models,0,0,PASS
+Five performance rows,5,5,PASS
+Bootstrap intervals use 1000 pair samples,1000,1000,PASS
+Ten shortlisted pairs,10,10,PASS
+Two shortlisted pairs per fold,"2,2,2,2,2","2,2,2,2,2",PASS
+Twenty pair-block permutations,20,20,PASS
+Sixty top-decile identity-ridge pairs,60,60,PASS

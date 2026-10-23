@@ -1,0 +1,6 @@
+test_fold,training_pairs,test_pairs,overlapping_pairs,training_drugs,test_drugs,training_cell_lines,test_cell_lines
+0,467,116,0,38,38,39,39
+1,467,116,0,38,38,39,39
+2,467,116,0,38,38,39,39
+3,467,116,0,38,38,39,39
+4,464,119,0,38,38,39,39

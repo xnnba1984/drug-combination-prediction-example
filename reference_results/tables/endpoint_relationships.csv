@@ -1,0 +1,4 @@
+comparison,pearson,spearman
+Published DeepSynergy Loewe versus DrugComb recalculated Loewe,0.41521919885775,0.533000111269825
+Published DeepSynergy Loewe versus CSS,0.236946404649436,0.160451192634417
+DrugComb recalculated Loewe versus CSS,0.29248992931171,0.333128886945688

@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Please cite this analysis code and the source studies listed in the README."
+type: software
+title: "Drug Combination Prediction: An O'Neil Screen Example"
+authors:
+  - family-names: "Xi"
+    given-names: "Miles"
+version: "1.0.0-rc1"
+repository-code: "https://github.com/xnnba1984/drug-combination-prediction-example"
+url: "https://xnnba1984.github.io/drug-combination-prediction-example/"
+license: MIT
+abstract: "An R analysis of the O'Neil drug combination screen using published leave-drug-pair-out folds. Includes identity and feature models, candidate ranking, uncertainty estimates, and reproducibility checks."
+keywords:
+  - drug combination
+  - synergy prediction
+  - preclinical statistics
+  - R

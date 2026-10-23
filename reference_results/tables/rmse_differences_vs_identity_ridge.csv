@@ -1,0 +1,5 @@
+comparison,estimate,lower_95,upper_95,probability_difference_below_zero
+Training mean minus Identity ridge,6.26302823199125,5.69019598034386,6.86147414092349,0
+Feature elastic net minus Identity ridge,3.3384785421014,2.9929366143514,3.69056232262711,0
+Hybrid elastic net minus Identity ridge,0.0744009950802536,0.0284309863723125,0.126017405812564,0
+Feature random forest minus Identity ridge,3.16093515465439,2.7916098021337,3.53616929146698,0

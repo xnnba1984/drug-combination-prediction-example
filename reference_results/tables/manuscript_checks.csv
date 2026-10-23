@@ -1,0 +1,45 @@
+check,observed,expected,tolerance,status
+Published label rows,23052,23052,0,PASS
+Unique triplets,22737,22737,0,PASS
+Repeated triplets,315,315,0,PASS
+Unique pairs,583,583,0,PASS
+Drugs,38,38,0,PASS
+Cell lines,39,39,0,PASS
+Triplets with CSS,22737,22737,0,PASS
+Drug features,4387,4387,0,PASS
+Cell line features,3984,3984,0,PASS
+Drug components,23,23,0,PASS
+Cell line components,14,14,0,PASS
+Drug variance percent,80.6894660304523,80.7,0.05,PASS
+Cell line variance percent,80.8996428355211,80.9,0.05,PASS
+Identity ridge RMSE,16.4764003260021,16.476,5e-04,PASS
+Identity ridge RMSE lower 95% limit,15.6077104969926,15.608,5e-04,PASS
+Identity ridge RMSE upper 95% limit,17.3596010143774,17.36,0.005,PASS
+Identity ridge MAE,10.5516729377646,10.552,5e-04,PASS
+Identity ridge Pearson correlation,0.688089273510068,0.688,5e-04,PASS
+Identity ridge Spearman correlation,0.693434667527591,0.693,5e-04,PASS
+Training mean RMSE,22.7394285579933,22.739,5e-04,PASS
+Feature elastic net RMSE,19.8148788681035,19.815,5e-04,PASS
+Feature random forest RMSE,19.6373354806565,19.637,5e-04,PASS
+Hybrid elastic net RMSE,16.5508013210823,16.551,5e-04,PASS
+Selected triplet positive percent,91.0408432147563,91,0.05,PASS
+Baseline triplet positive percent,34.4022519699387,34.4,0.05,PASS
+Weighted fold enrichment,2.67699336166246,2.68,0.005,PASS
+Example pair prediction,81.6026279653498,81.6,0.05,PASS
+Example observed mean Loewe,113.965088049567,114,0.5,PASS
+Example observed mean CSS,69.0213333333333,69,0.5,PASS
+Selected pairs,60,60,0,PASS
+Observed above predicted pairs,43,43,0,PASS
+Mean difference over all 60 pairs,8.55333773652959,8.55,0.005,PASS
+Mean difference summary matches figure points,8.55333773652959,8.5533377365296,1e-10,PASS
+Permutation replicates,20,20,0,PASS
+Permutation RMSE minimum,22.5255975706513,22.526,5e-04,PASS
+Permutation RMSE maximum,22.7145062734721,22.715,5e-04,PASS
+Permutation correlation minimum,0.0145706520620343,0.015,5e-04,PASS
+Permutation correlation maximum,0.125755060709096,0.126,5e-04,PASS
+BEZ-235 candidate pairs,34,34,0,PASS
+DASATINIB candidate pairs,23,23,0,PASS
+Train-test pair overlap,0,0,0,PASS
+Training drug coverage,5,5,0,PASS
+Training cell line coverage,5,5,0,PASS
+Outcome names in predictor matrices,0,0,0,PASS
