@@ -1,6 +1,6 @@
 # Drug Combination Prediction: An O'Neil Screen Example
 
-Code and results for the worked example in Section 3.6, *A Practical Workflow for Drug Combination Prediction*. The analysis predicts the Loewe synergy score for new pairings of known drugs in an existing cell line panel. It uses the O'Neil oncology screen and the public DeepSynergy labels and features.
+This repository provides the code and results for the example in Section 3.6 of our book chapter on drug combination studies in preclinical statistics. The analysis predicts the Loewe synergy score for new pairings of known drugs in an existing cell line panel. It uses the O'Neil oncology screen and the public DeepSynergy labels and features.
 
 [Project page](https://xnnba1984.github.io/drug-combination-prediction-example/) | [Download code and summary results](https://github.com/xnnba1984/drug-combination-prediction-example/archive/refs/heads/main.zip)
 
